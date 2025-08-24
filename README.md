@@ -31,7 +31,7 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # 克隆仓库
-git clone https://github.com/yourusername/fuck-shit-code.git
+git clone https://github.com/NORMAL-EX/fuck-shit-code.git
 cd fuck-shit-code
 
 # 编译发布版本
@@ -333,5 +333,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - 🌱 **空项目检测**：即使是空文件夹也能给出有趣的分析报告
 - 📊 **更智能的指标**：针对不同语言特点优化的质量评估算法
 - 🔍 **更全面的覆盖**：支持更多文件扩展名和编程范式
+
 
 现在你可以用一个工具分析从前端到后端的完整项目了！
