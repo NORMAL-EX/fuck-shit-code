@@ -31,7 +31,7 @@ Requires Rust toolchain:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Clone repository
-git clone https://github.com/yourusername/fuck-shit-code.git
+git clone https://github.com/NORMAL-EX/fuck-shit-code.git
 cd fuck-shit-code
 
 # Build release version
@@ -333,5 +333,6 @@ Remember: **There is no perfect code, only evolving code**.
 - 🌱 **Empty Project Detection**: Even empty folders get interesting analysis reports
 - 📊 **Smarter Metrics**: Quality assessment algorithms optimized for different language characteristics
 - 🔍 **More Comprehensive Coverage**: Supports more file extensions and programming paradigms
+
 
 Now you can analyze complete projects from frontend to backend with one tool!
